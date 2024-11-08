@@ -1,7 +1,5 @@
-Hi everyone!
-
-Below is an example of calling multiple functions using the function call capability of GPT. I hope you find it useful.
-
+#Hi everyone!
+#Below is an example of calling multiple functions using the function call capability of GPT. I hope you find it useful.
 
 
 from dotenv import load_dotenv
